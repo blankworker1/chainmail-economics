@@ -37,7 +37,7 @@ The facilitator also has tools for later rounds: breaking a bond, accepting a pa
 
 The landing page and the card need to be opened from a web address for the QR code and the card's WhatsApp button to work.GitHub Pages is enabled for this repository, the landing page is at:
 
- [`https://blankworker1.github.io/chainmail-economics/`]
+(!) [`https://blankworker1.github.io/chainmail-economics/index.html`]
 
 The landing page builds the QR code for the card. If the facilitator enters their WhatsApp number there, the code and link change so that each card arrives as a direct message. The link then takes this form:
 
