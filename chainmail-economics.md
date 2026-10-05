@@ -1,7 +1,5 @@
 # Chainmail Economics
 
-Oct 4, 2026 · @Carl
-
 Chainmail Economics pictures an economy built from individuals instead of institutions, where people are links in a chainmail of interlocking rings.
 
 It starts from one question: how can a community reduce its dependence on outside companies and governments? Its answer is a structure simple enough for anyone to hold in their head. The basics can be taught in one lesson.
